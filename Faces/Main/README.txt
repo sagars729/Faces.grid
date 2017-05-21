@@ -7,6 +7,7 @@ Credits:
 	
 	Design:
 		HTML5 UP (https://html5up.net/)
+		Licensed by the Creative Commons
 
 	Demo Images:
 		Unsplash (unsplash.com)
